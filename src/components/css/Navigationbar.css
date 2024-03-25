@@ -1,0 +1,20 @@
+
+a:-webkit-any-link {
+  padding:30px;
+  color:#67a8d9;
+ font-size:25px;
+ text-shadow: 0px 0px 0px #91b6cf, 8px 7px 5px #3a5a7e, -1px 2px 0px #587795;
+ font-family: 'Niconne', cursive;
+ text-decoration: none;
+
+}
+
+.navbar {
+  height: 50px;
+  border-radius: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: static;
+}
+

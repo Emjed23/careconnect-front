@@ -1,0 +1,34 @@
+
+h1{
+  
+    font-size: 90px;
+    margin: 40px;
+    font-weight: 600;
+    font-family: 'Niconne', cursive;
+    color:#67a8d7;
+   
+}
+article{
+    word-spacing: 10px;
+    font-size: 1rem;
+    line-height: 2.5rem;
+    font-weight: 700;
+    color: #354d6a;
+    display: block;
+    font-family: geekflare-primary, system-ui, -apple-system, segoe ui, roboto, helvetica neue, arial, noto sans, liberation sans, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji;
+    text-align: left;
+    max-width: 700px;
+    padding: 57px 30px;
+}
+
+footer{
+    margin-left: 20px;
+    /* display: flex; */
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: nowrap; */
+    /* justify-content: flex-start; */
+    align-content: stretch;
+
+}
+
+

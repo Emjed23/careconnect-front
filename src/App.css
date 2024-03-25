@@ -1,0 +1,19 @@
+ *{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-image: url('./components/css/med.png');
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-attachment: fixed;
+}
+.title{
+  display: grid;
+  padding: 30px;
+  color: #134a73;
+  font-size: 30px;
+  font-family: 'Niconne', cursive;
+  justify-content: center;
+  gap: -115px;
+ 
+}

@@ -1,0 +1,76 @@
+.card{
+  gap: 100px;
+  text-align: center;
+ 
+  margin-top: 30px;
+
+    display: flex;
+    align-items: center;
+   
+    flex-direction: column;
+  
+}
+button{
+   margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+  color: white;
+    background: linear-gradient(135deg, #71b7e6, #213850);
+}
+
+
+
+
+
+
+.name{
+  font-family: 'Righteous', sans-serif;
+  /* display: block; */
+  font-size: 25px;
+  color: #3d4e70;
+  text-transform: capitalize;
+  font-style: italic;
+  margin-top: 30px;
+}
+
+img.card-img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  border: 7px solid #213850;
+  margin-top: 30px;
+  box-shadow: 0 50px 100px #213850;
+  transition: all 0.9s ease 0s;
+  transform: scale(1);
+ 
+}
+  .bio{
+    width: 360px;
+    border: solid #be98c9 outset;
+    gap: 20px;
+    justify-self: stretch;
+    justify-content: space-evenly;
+    border-radius: 25px;
+  
+    box-shadow: rgba(28, 27, 20, 0.17) 15px -23px 25px 0px inset, rgba(45, 21, 29, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgb(223 151 128) 0px 2px 1px, rgba(44, 15, 22, 0.09) 13px 4px 2px, rgb(78 128 165) 0px 8px 4px, rgb(190 152 201) 0px 16px 8px, rgba(3, 2, 7, 0.09) 0px 32px 16px;
+
+}
+
+input{
+  border-radius: 5px;
+  border: none;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  
+}
+.link-button{
+
+  border-color:  rgba(0, 0, 0, 0.3);
+
+}

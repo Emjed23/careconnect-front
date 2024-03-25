@@ -1,0 +1,63 @@
+
+form.d-flex{
+   
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        box-shadow: -1 0px 10px rgba(0, 0, 0, 0.2);
+        place-items: center;
+        margin: 60px;
+        border-color: #213850;
+    
+}
+input{
+    padding: 10px 10px;
+    background-color: #213850;
+    color: #213850;
+    border: 2px solid #213850; 
+    border-radius: 25px;
+}
+.btn{
+    padding: 9px 25px;
+    background-color: #213850;
+ 
+    color: #cddde7;
+    border: 2px solid #213850;
+    margin: 15px;
+}
+.results{
+    margin-left: 70px;
+
+    border: #213850 solid;
+    margin-top: 20px;
+    box-shadow: 0 19px 192px 0 #213850;
+    max-width: 300px;
+   
+   
+}
+.bio{
+    gap:20px;
+    justify-self: stretch;
+    justify-content: space-evenly;
+    border-radius: 6px;
+    align-items: center;
+    box-shadow: rgba(58, 57, 131, 22.25) 65px 86px 71px -120px inset, rgba(0, 0, 0, 0.3) 0px 49px 137px 67px inset;
+    gap: 20px;
+}
+
+.list{
+    color: #213850;
+    list-style: none;
+    margin-bottom: 5px;
+    border-radius: -32px;
+    font: italic 13px sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    font-size: 1em;
+}
+
+  
+  

@@ -1,0 +1,78 @@
+.caregiver-details {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #354d6a;
+    box-shadow: rgb(31 31 127 / 79%) 130px 50px 100px -20px, rgb(61 81 115) 20px 33px 64px -30px, rgb(10 37 64) 5px -2px 13px 3px inset;
+}
+  
+  
+  .caregiver-details legend {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .caregiver-details p {
+    margin: 10px 0;
+  }
+  
+  .caregiver-details p:first-child {
+    margin-top: 0;
+  }
+  
+  .caregiver-details p:last-child {
+    margin-bottom: 0;
+  }
+  .reviews-container {
+    margin-bottom: 20px;
+  }
+  
+
+  .rev{
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #354d6a;
+    border-radius: 10px;
+
+}
+  
+.Reviewbox{
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: rgb(31 31 127 / 79%) 130px 50px 100px -20px, rgb(61 81 115) 20px 33px 64px -30px, rgb(10 37 64) 5px -2px 13px 3px inset;
+}
+.inputRev{
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: rgb(31 31 127 / 79%) 130px 50px 100px -20px, rgb(61 81 115) 20px 33px 64px -30px, rgb(10 37 64) 5px -2px 13px 3px inset;  
+}
+.revlist {
+    list-style-type: none;
+    padding: 7px;
+    border: solid white;
+    display: ruby-text;
+   
+}
+  
+  
+  .revlist li {
+    margin-bottom: 10px; /* Add margin between list items */
+  }
+  
+  .revlist li .name {
+    font-weight: bold; /* Make the reviewer name bold */
+     color: #354d6a;
+  }
+  
+  .revlist li .text {
+    font-style: italic; /* Make the review text italic */
+   
+  }
